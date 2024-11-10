@@ -1,0 +1,41 @@
+{
+  "texts": {
+    "mainTitle": "Solutions GED sur mesure",
+    "subtitle": "Expert en gestion électronique des documents, j'accompagne les entreprises dans leur transformation numérique.",
+    "documentumText": "Api et modèle de données documentum",
+    "headerName": "Amaury PICHAT",
+    "headerRole": "Consultant GED"
+  },
+  "cards": [
+    {
+      "id": "1",
+      "icon": "HiOutlineWrenchScrewdriver",
+      "title": "Administration",
+      "content": "Administration et maintenance de vos solutions GED"
+    },
+    {
+      "id": "2",
+      "icon": "HiOutlineChartBar",
+      "title": "Traitement de données",
+      "content": "Analyse et traitement de vos données documentaires"
+    },
+    {
+      "id": "3",
+      "icon": "HiOutlineDocumentArrowUp",
+      "title": "Dématérialisation",
+      "content": "Transformation de vos documents papier en données numériques"
+    },
+    {
+      "id": "1731245632665",
+      "icon": "HiOutlineWrenchScrewdriver",
+      "title": "AA",
+      "content": "AAA"
+    },
+    {
+      "id": "1731246377207",
+      "icon": "HiOutlineAdjustmentsHorizontal",
+      "title": "test1",
+      "content": "test2"
+    }
+  ]
+}
